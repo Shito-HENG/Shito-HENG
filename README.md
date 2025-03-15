@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shito-HENG
-- 👀 I’m interested in ethical hacking
+- 👀 I’m interested in Ethical-Hacking/Pentesting
 - 🌱 I’m currently learning python & cybersecurity fundamentals
 - 💞️ I’m looking to collaborate on ctf, hacking project
 - 📫 How to reach me: Email: shitoheng656@gmail.com
