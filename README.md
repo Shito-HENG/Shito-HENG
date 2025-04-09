@@ -9,7 +9,7 @@
 - 💞️ Looking to collaborate on ctf, hacking project
 - 📫 How to reach me: Email: shitoheng656@gmail.com
 - 😄 Pronouns: Mr.
-- ⚡ Fun fact: Newbie, willing to learn anything
+- ⚡ Fun fact: Intermediate, willing to learn anything
 
 <!---
 Shito-HENG/Shito-HENG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
