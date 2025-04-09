@@ -1,7 +1,12 @@
 - 👋 Hi, I’m @Shito-HENG
-- 👀 I’m interested in Ethical-Hacking/Pentesting
-- 🌱 I’m currently learning python & cybersecurity fundamentals
-- 💞️ I’m looking to collaborate on ctf, hacking project
+- 👀 Interested in Pentester/SOC Analyst
+- 🌱 Currently learning python, network, and linux.
+- 💻 Achieving certifications:
+    1. Google Cybersecurity
+    2. Google Cloud Cybersecurity
+    3. Google IT Support
+    4. IBM and ISC2 Cybersecurity Specialist
+- 💞️ Looking to collaborate on ctf, hacking project
 - 📫 How to reach me: Email: shitoheng656@gmail.com
 - 😄 Pronouns: Mr.
 - ⚡ Fun fact: Newbie, willing to learn anything
