@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shito-HENG
-- 👀 Interested in Pentester/SOC Analyst
-- 🌱 Currently learning python, network, and linux.
+- 👀 Interested in Pentester/Red-Teamer
+- 🌱 Currently learning exploit and privilege escalation techniques
 - 💻 Achieving certifications:
     1. Google Cybersecurity
     2. Google Cloud Cybersecurity
