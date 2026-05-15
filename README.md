@@ -9,9 +9,9 @@ I'm currently working on some projects; especially tools that could help boost t
 I'm looking for a full-time job as Penetration Tester, also looking for collaborating on Capture the Flag (CTF) and some projects as well.
 
 Fun Fact:
-    1. I love exploring about Tech News
-    2. I love playing and watching video games
-    3. I prefer coffee than tea
-    4. I sometimes watch anime and one pieces is the favorite among all
-    5. I love playing chess as well and once the vice-president of AUPP Chess Club
-    6. Hobbies: Anime, Video Games, Movies, Music, Chess, Coding
+    - I love exploring about Tech News
+    - I love playing and watching video games
+    - I prefer coffee than tea
+    - I sometimes watch anime and one pieces is the favorite among all
+    - I love playing chess as well and once the vice-president of AUPP Chess Club
+    - Hobbies: Anime, Video Games, Movies, Music, Chess, Coding
