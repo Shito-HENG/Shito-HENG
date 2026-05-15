@@ -1,6 +1,6 @@
 ## Hey There! 👋
 
-I'm **Shito**, a graduated student from American University of Phnom Penh (AUPP) based in Cambodia.
+I'm **Shito HENG** a.k.a **To-Shi**, a graduated student from American University of Phnom Penh (AUPP) based in Cambodia.
 
 I learn and practice throughout TryHackMe and HackTheBox rooms.
 
