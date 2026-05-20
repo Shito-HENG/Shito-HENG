@@ -14,4 +14,4 @@ Fun Fact:
 - I prefer coffee than tea
 - I sometimes watch anime and one pieces is the favorite among all
 - I love playing chess as well and once the vice-president of AUPP Chess Club
-- Hobbies: Anime, Video Games, Movies, Music, Chess, Coding
+- Hobbies: Anime, Video Games, Movies, Music, Chess, Coding, CTF
